@@ -59,4 +59,5 @@ This isn't just about automation; it's about **efficiency, engagement, and empow
 
 This `README.md` outlines the core guidance for the TEST Project. We're excited to see this vision come to life!
 
-For more details or to contribute, please refer to the project documentation or contact the team.
+For more details or to contribute,
+contact with me.
